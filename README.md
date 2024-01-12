@@ -36,5 +36,6 @@ Welcome to the Simon Game! This web-based game challenges your memory skills by 
 
 
 ## License
-This project is licensed under the [MIT License](link-to-MIT-License).
+This project is licensed under the [MIT License](https://github.com/vivekbiragoni/jq_js_simon_game/blob/main/LICENSE).
+
 
