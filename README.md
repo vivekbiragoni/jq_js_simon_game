@@ -24,7 +24,7 @@ Welcome to the Simon Game! This web-based game challenges your memory skills by 
    ```bash
    git clone https://github.com/vivekbiragoni/simon-game.git
    
-# Open the `index.html` file in your preferred web browser.
+## Open the `index.html` file in your preferred web browser.
 
 
 ## Technologies Used
