@@ -7,7 +7,6 @@ Welcome to the Simon Game! This web-based game challenges your memory skills by 
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## How to Play
